@@ -1,5 +1,7 @@
 # CATganisation - Cat Breeds App
 
+<img src="/cat.gif" width="40%"/>
+
 Technologies: MVVM architecture, RxJava, Hilt, Navigation Component, Retrofit
 
 
