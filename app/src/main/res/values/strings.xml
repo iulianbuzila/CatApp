@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CATganisation</string>
+    <string name="lbl_something_went_wrong">Something went wrong</string>
+    <string name="lbl_login">Login</string>
+    <string name="lbl_email">Email</string>
+    <string name="lbl_password">Password</string>
+    <string name="lbl_error">Error</string>
+    <string name="lbl_invalid_email">Invalid E-mail</string>
+    <string name="lbl_invalid_password">Invalid password: Minimum 3 characters, at least one letter and one number</string>
+
+    <string name="lbl_country">Country:</string>
+    <string name="lbl_temperament">Temperament:</string>
+    <string name="lbl_wikipedia_link">Wikipedia Link:</string>
+
+    <string name="default_image_content_description" />
+</resources>

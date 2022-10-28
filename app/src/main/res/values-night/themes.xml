@@ -1,0 +1,15 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="colorPrimary">@color/color_primary</item>
+        <item name="colorPrimaryDark">@color/color_primary</item>
+        <item name="colorAccent">@color/white</item>
+        <item name="android:colorAccent">@color/white</item>
+
+        <item name="android:colorBackground">@color/color_primary</item>
+        <item name="android:statusBarColor">@color/color_primary</item>
+        <item name="colorError">@color/red</item>
+
+        <item name="materialAlertDialogTheme">@style/MaterialAlertDialog</item>
+    </style>
+</resources>

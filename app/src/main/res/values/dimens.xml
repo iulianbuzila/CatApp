@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="spacing_small">8dp</dimen>
+    <dimen name="spacing_normal">16dp</dimen>
+    <dimen name="spacing_large">20dp</dimen>
+    <dimen name="spacing_xlarge">24dp</dimen>
+    <dimen name="spacing_xxlarge">42dp</dimen>
+
+    <dimen name="text_size_title">24sp</dimen>
+    <dimen name="text_size_title2">22sp</dimen>
+    <dimen name="text_size_body1">18sp</dimen>
+    <dimen name="text_size_body2">16sp</dimen>
+
+    <dimen name="corner_radius_m">8dp</dimen>
+    <dimen name="corner_radius_l">12dp</dimen>
+
+    <dimen name="cat_image_size">100dp</dimen>
+    <dimen name="cat_image_size_big">250dp</dimen>
+
+    <dimen name="divider_height">1dp</dimen>
+</resources>
